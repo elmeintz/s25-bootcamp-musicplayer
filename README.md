@@ -1,1 +1,2 @@
-# s25-bootcamp-musicplayer
+# Spotify Recreation
+![Home Page Screenshot](pic.png)
