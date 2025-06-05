@@ -48,7 +48,7 @@ struct SpotifyView: View {
                     
                     HStack{
                         VStack(alignment: .leading) {
-                            Text("All My Love")
+                            Text("New Perspective")
                                 .font(.title)
                                 .fontWeight(.bold)
                                 .foregroundColor(.white)
@@ -131,4 +131,5 @@ struct SpotifyView: View {
 #Preview {
     SpotifyView()
 }
+
 
